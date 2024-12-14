@@ -1,19 +1,19 @@
 {
-    "geode": "3.7.2",
-    "version": "v1.4.1",
+    "geode": "4.1.0",
+    "version": "v1.0.0-beta.1",
     "gd": {
         "win": "2.206",
         "mac": "2.206",
         "android": "2.206"
     },
-    "id": "cgytrus.menu-shaders",
+    "id": "gmp.menu-shaders",
     "name": "Menu Shaders",
-    "developers": [ "mat", "ConfiG", "rooot" ],
-    "description": "Replaces the background of the main menu with a customizable shader.",
-    "repository": "https://github.com/cgytrus/MenuShaders",
+    "developers": [ "mat", "ConfiG", "rooot", "gmp"],
+    "description": "Menu Shaders 2.207 Port.",
+    "repository": "https://github.com/GMDPLUTONIC/MenuShaders",
     "issues": {
         "info": "Report any issues you have on GitHub issues.",
-        "url": "https://github.com/cgytrus/MenuShaders/issues"
+        "url": "https://github.com/GMDPLUTONIC/MenuShaders/issues"
     },
     "tags": [ "offline", "interface", "customization" ],
     "resources": {
